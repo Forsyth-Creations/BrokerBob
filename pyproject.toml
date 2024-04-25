@@ -14,6 +14,7 @@ optimum = "^1.18.0"
 auto-gptq = "^0.7.1"
 torchvision = "^0.17.2"
 matplotlib = "^3.8.4"
+fpdf = "^1.7.2"
 
 
 [tool.poetry.group.dev.dependencies]
