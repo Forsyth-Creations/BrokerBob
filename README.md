@@ -12,3 +12,6 @@ https://www.kaggle.com/code/zeyadsayedadbullah/stock-price-prediction-using-xgbo
 
 https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
 
+https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/#:~:text=Long%20Short%2DTerm%20Memory%20(LSTM,series%20or%20string%20of%20text.
+
+https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
